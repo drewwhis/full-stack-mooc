@@ -1,0 +1,4 @@
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa {"content":"new note","date":"2021-07-09T03:05:39.025Z"}
+note over browser:
+browser adds list entry
+end note
