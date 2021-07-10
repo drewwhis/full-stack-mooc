@@ -19,7 +19,7 @@ const Content = (props) => {
     <>
       <Part details={props.course.parts[0]} />
       <Part details={props.course.parts[1]} />
-      <Part details={props.course.parts[2]} />      
+      <Part details={props.course.parts[2]} />
     </>
   );
 };
