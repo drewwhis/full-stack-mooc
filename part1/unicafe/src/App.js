@@ -53,7 +53,6 @@ const Statistics = ({ good, neutral, bad }) => {
           <Statistic name='positive' calculator={positive} />
         </tbody>
       </table>
-
     </>
   );
 };
